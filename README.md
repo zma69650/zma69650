@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zma69650
-- 👀 I’m interested in SLAM
-- 🌱 I’m currently learning VSLAM
+- 👋 Hi, I’m @jijiehuang
+- 👀 I’m interested in robot and slam 
+- 🌱 I’m currently learning quadruped robot  
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
