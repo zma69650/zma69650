@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jijiehuang
-- 👀 I’m interested in robot and slam 
+- 👀 I’m interested in robot
 - 🌱 I’m currently learning quadruped robot  
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 WeChat: hjj19981027
 
 <!---
 zma69650/zma69650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
